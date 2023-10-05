@@ -1,0 +1,58 @@
+[
+    {
+        "id": "1",
+        "horario": "14:00",
+        "dia": "05 out",
+        "imagem": "/assets/partidas/logo.png",
+        "nomeDoTime": "Imperial"
+    },
+    {
+        "id": "2",
+        "horario": "14:00",
+        "dia": "05 out",
+        "imagem": "/assets/partidas/logo.png",
+        "nomeDoTime": "Mibr"
+    },
+    {
+        "id": "3",
+        "horario": "14:00",
+        "dia": "05 out",
+        "imagem": "/assets/partidas/logo.png",
+        "nomeDoTime": "Liquid"
+    },
+    {
+        "id": "4",
+        "horario": "14:00",
+        "dia": "05 out",
+        "imagem": "/assets/partidas/logo.png",
+        "nomeDoTime": "Navi"
+    },
+    {
+        "id": "5",
+        "horario": "14:00",
+        "dia": "05 out",
+        "imagem": "/assets/partidas/logo.png",
+        "nomeDoTime": "NIP"
+    },
+    {
+        "id": "6",
+        "horario": "14:00",
+        "dia": "05 out",
+        "imagem": "/assets/partidas/logo.png",
+        "nomeDoTime": "Detona Gaming"
+    },
+    {
+        "id": "7",
+        "horario": "14:00",
+        "dia": "05 out",
+        "imagem": "/assets/partidas/logo.png",
+        "nomeDoTime": "SK Gaming"
+    },
+    {
+        "id": "8",
+        "horario": "14:00",
+        "dia": "05 out",
+        "imagem": "/assets/partidas/logo.png",
+        "nomeDoTime": "Virtus Pro"
+    }
+]

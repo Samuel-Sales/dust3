@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "titulo": "Imperial acerta contratação de noway",
+        "texto": "Kaiky 'noway' Santos vai, finalmente, se tornar um jogador profissional. Em um dos movimentos mais aguardados do Counter-Strike nacional dos tempos recentes, o streamer de 18 anos acertou com a Imperial e vai atuar pela equipe após a BLAST Premier Spring Showdown."
+    },
+    {
+        "id": 2,
+        "titulo": "Com banimentos, Valve fecha o cerco ao principal cheat de CS2",
+        "texto": "Com pouco tempo de lançamento, o CS2 já está sendo alvo de muitos cheaters, em busca de solucionar este problema a Valve detectou um modo de cheat popular no jogo e muitos jogadores que usaram esta trapaça estão sendo banidos."
+    },
+    {
+        "id": 3,
+        "titulo": "Como converter sensibilidade do Valorant para o CS2",
+        "texto": "Com o lançamento do CS2, muitos jogadores de outros jogos estão jogando a nova versão do FPS da Valve. Pensando nisso, a Dust2 Brasil preparou um guia de como converter a sensibilidade do Valorant para o CS2."
+    },
+    {
+        "id": 4,
+        "titulo": "Palavra CSGO está banida na Steam",
+        "texto": "A palavra CSGO está mais uma vez banida na Steam. Isso significa que a sigla não está podendo ser mais utilizada pelos jogadores junto ao nick da plataforma. Quando incluído no perfil, as quatro letras de CSGO são automaticamente substituídas por asteriscos."
+    },
+    {
+        "id": 5,
+        "titulo": "Partida da FURIA contra Astralis está entre mais assistidas da Pro League",
+        "texto": "A FURIA teve uma das partidas mais assistidas da ESL Pro League Season 18. O jogo dos brasileiros contra a Astralis foi o 4º mais assistido do campeonato, de acordo com dados da Esports Charts."
+    },
+    {
+        "id": 6,
+        "titulo": "Gaules é streamer mais assistido do mundo em setembro",
+        "texto": "Alexandre 'Gaules' Borba fechou o mês de setembro como o streamer mais asssistido mundialmente na Twitch. O brasileiro superou a casa de 10 milhões de horas assistidas. Gaules teve 10 milhões e 41 mil horas assistidas entre o dia 1° e 30 de setembro. Estes números levaram o brasileiro a ficar na frente do segundo colocado por mais de 2 milhões de horas."
+    },
+    {
+        "id": 7,
+        "titulo": "Em Portugal, MIBR encerra jejum na LAN",
+        "texto": "O Brasil finaliza o CS:GO vencendo uma das últimas LANs a ser disputada na antiga versão do Counter-Strike. Neste domingo, batendo Alliance de virada por 3 a 1, MIBR conquistou o MEO XL Cup."
+    },
+    {
+        "id": 8,
+        "titulo": "Veja retrospecto de coldzera versus FalleN",
+        "texto": "Bicampeões mundiais em 2016, Marcelo 'coldzera' David e Gabriel 'FalleN' Toledo vêm se enfrentando desde 2019. Na BLAST Premier Fall Showdown Americas as duas estrelas voltarão a ficar frente a frente. Será o 9º embate entre os jogadores."
+    }
+]

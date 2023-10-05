@@ -1,0 +1,16 @@
+.timesContainer {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 1em;
+    border-bottom: 1px solid #000000;
+}
+
+.times {
+    display: flex;
+    gap: 20px;
+}
+
+.times img {
+    max-width: 50px;
+}
