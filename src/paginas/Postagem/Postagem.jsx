@@ -1,6 +1,7 @@
 import { useParams } from "react-router-dom";
 import posts from '../../json/posts.json';
 import { PostModelo } from "../../componentes/PostModelo/PostModelo";
+import NotFound from "../NotFound/NotFound";
 
 export default function Postagem() {
     const parametros = useParams();
@@ -9,7 +10,7 @@ export default function Postagem() {
     })
 
     if (!post) {
-        return <h1>Post nao encontrado...</h1>
+        return <NotFound />
     }
 
     return (
