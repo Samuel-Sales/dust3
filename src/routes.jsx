@@ -4,6 +4,13 @@ import { SobreMim } from "./paginas/SobreMim/SobreMim";
 import { Menu } from "./componentes/Menu/Menu";
 import { Rodape } from "./componentes/Rodape/Rodape";
 import { PaginaPadrao } from "./componentes/PaginaPadrao/PaginaPadrao";
+import Postagem from "./paginas/Postagem/Postagem";
+import NotFound from "./paginas/NotFound/NotFound";
+
+
+
+
+
 
 function AppRoutes() {
   return (
@@ -13,10 +20,11 @@ function AppRoutes() {
       <Routes>
         <Route path="/" element={<PaginaPadrao />}>
           <Route index element={<Inicio />} />
-          <Route path="/sobremim" element={<SobreMim />} />
+          <Route path="sobremim" element={<SobreMim />} />
+          <Route path="posts/:id" element={<Postagem />} />
         </Route>
         
-        <Route path="*" element={<div>Pagina nao encontrada</div>} />
+        <Route path="*" element={<NotFound />} />
       </Routes>
 
       <Rodape />

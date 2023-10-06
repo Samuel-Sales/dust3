@@ -6,10 +6,10 @@ import { Partida } from "../../componentes/Partida/Partida";
 
 export function SobreMim() {
     return (
-        <PostModelo fotoCapa={fotoCapa} titulo="Partidas de CS:GO">
-            <h3 className={styles.subtitulo}>
-                Hoje
-            </h3>
+        <PostModelo fotoCapa={fotoCapa} titulo="Times de CS:GO">
+            {/* <h3 className={styles.subtitulo}>
+                Times
+            </h3> */}
 
             <div>
                 <ul>

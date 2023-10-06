@@ -10,7 +10,7 @@ export function Menu() {
                     Inicio
                 </MenuLink> 
                 <MenuLink to="/sobremim"> 
-                    Sobre Mim
+                    Equipes
                 </MenuLink>
             </nav>
         </header>

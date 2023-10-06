@@ -1,7 +1,6 @@
-import { Banner } from "../../componentes/Banner/Banner";
 import styles from './Inicio.module.css';
 import posts from '../../json/posts.json';
-import { Post } from "../../componentes/Post/Post";
+import Post from "../../componentes/Post/Post";
 
 export function Inicio() {
     return (
